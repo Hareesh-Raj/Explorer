@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Explorer/static/css/main.98041d53.css",
+    "main.js": "/Explorer/static/js/main.9ad716a8.js",
+    "static/js/787.7caea3da.chunk.js": "/Explorer/static/js/787.7caea3da.chunk.js",
+    "static/media/cover.png": "/Explorer/static/media/cover.6b834a79152ac16c1e6f.png",
+    "static/media/banner.webp": "/Explorer/static/media/banner.dc814d9f63e86ef111d4.webp",
+    "static/media/pollachi.png": "/Explorer/static/media/pollachi.a3fe65a12e3b3663aceb.png",
+    "static/media/chidambaram.png": "/Explorer/static/media/chidambaram.c4c3f1ec641a293ce02c.png",
+    "static/media/masinagudi.png": "/Explorer/static/media/masinagudi.a9c2d3d75981505eba57.png",
+    "static/media/thanjavur.png": "/Explorer/static/media/thanjavur.69effc06b772489a1b96.png",
+    "static/media/tirunelveli.png": "/Explorer/static/media/tirunelveli.ecd2ef1ae3e4822e08d7.png",
+    "static/media/kumbakonam.png": "/Explorer/static/media/kumbakonam.8ff4161af67be418463c.png",
+    "index.html": "/Explorer/index.html",
+    "main.98041d53.css.map": "/Explorer/static/css/main.98041d53.css.map",
+    "main.9ad716a8.js.map": "/Explorer/static/js/main.9ad716a8.js.map",
+    "787.7caea3da.chunk.js.map": "/Explorer/static/js/787.7caea3da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98041d53.css",
+    "static/js/main.9ad716a8.js"
+  ]
+}
