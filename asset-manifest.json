@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Explorer/static/css/main.98041d53.css",
-    "main.js": "/Explorer/static/js/main.9ad716a8.js",
+    "main.css": "/Explorer/static/css/main.35a548a6.css",
+    "main.js": "/Explorer/static/js/main.9c1d64d8.js",
     "static/js/787.7caea3da.chunk.js": "/Explorer/static/js/787.7caea3da.chunk.js",
     "static/media/cover.png": "/Explorer/static/media/cover.6b834a79152ac16c1e6f.png",
     "static/media/banner.webp": "/Explorer/static/media/banner.dc814d9f63e86ef111d4.webp",
@@ -12,12 +12,12 @@
     "static/media/tirunelveli.png": "/Explorer/static/media/tirunelveli.ecd2ef1ae3e4822e08d7.png",
     "static/media/kumbakonam.png": "/Explorer/static/media/kumbakonam.8ff4161af67be418463c.png",
     "index.html": "/Explorer/index.html",
-    "main.98041d53.css.map": "/Explorer/static/css/main.98041d53.css.map",
-    "main.9ad716a8.js.map": "/Explorer/static/js/main.9ad716a8.js.map",
+    "main.35a548a6.css.map": "/Explorer/static/css/main.35a548a6.css.map",
+    "main.9c1d64d8.js.map": "/Explorer/static/js/main.9c1d64d8.js.map",
     "787.7caea3da.chunk.js.map": "/Explorer/static/js/787.7caea3da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98041d53.css",
-    "static/js/main.9ad716a8.js"
+    "static/css/main.35a548a6.css",
+    "static/js/main.9c1d64d8.js"
   ]
 }
