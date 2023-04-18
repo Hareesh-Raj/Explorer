@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Explorer/static/css/main.35a548a6.css",
+    "main.css": "/Explorer/static/css/main.89669d0a.css",
     "main.js": "/Explorer/static/js/main.9c1d64d8.js",
     "static/js/787.7caea3da.chunk.js": "/Explorer/static/js/787.7caea3da.chunk.js",
     "static/media/cover.png": "/Explorer/static/media/cover.6b834a79152ac16c1e6f.png",
@@ -12,12 +12,12 @@
     "static/media/tirunelveli.png": "/Explorer/static/media/tirunelveli.ecd2ef1ae3e4822e08d7.png",
     "static/media/kumbakonam.png": "/Explorer/static/media/kumbakonam.8ff4161af67be418463c.png",
     "index.html": "/Explorer/index.html",
-    "main.35a548a6.css.map": "/Explorer/static/css/main.35a548a6.css.map",
+    "main.89669d0a.css.map": "/Explorer/static/css/main.89669d0a.css.map",
     "main.9c1d64d8.js.map": "/Explorer/static/js/main.9c1d64d8.js.map",
     "787.7caea3da.chunk.js.map": "/Explorer/static/js/787.7caea3da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35a548a6.css",
+    "static/css/main.89669d0a.css",
     "static/js/main.9c1d64d8.js"
   ]
 }
